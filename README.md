@@ -1,11 +1,11 @@
 # Pizza Sales_data_analysis
  ### This a End-to-End Data Analysis on the Pizza Sales Dataset using PowerBi and SSMS(SQL SERVER MANAGEMENT STUDIO).
   - The data Used here is an open source dataset from kaggle Dataset.
-  - This dataset Containes features such as pizza_id, order_id, pizza_name_id, quantity,order_date, order_time, unit_price, total_price, pizza_size, pizza_category, pizza_ingredients,    pizza_name.
+  - This dataset Containes features such as pizza_id, order_id, pizza_name_id, quantity,order_date, order_time, unit_price, total_price, pizza_size, pizza_category, pizza_ingredients, pizza_name.
 
 ## Project Deployment:
  - This project is build using PowerBI Desktop application to build.
- -`Link` -  [Portfolio-Website](https://portfolio-saurabh-singh-18.vercel.app)
+ -`Link` -  [Project URL](https://portfolio-saurabh-singh-18.vercel.app/project.html)
  
 #### Dashboard Features:
     - This Dashboard has a navigator button to switch between the pages from Home to Best/Worst Sellers.
